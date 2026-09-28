@@ -6,5 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input(2)
+b = int(input(5)
+# Input: บรรทัดที่ 1 ตัวเลข A, บรรทัดที่ 2 ตัวเลข B (จำนวนเต็ม)
+#Output: 2 "A is greater"2 A>B 5 "B is greater or equrl" 2 A <=B
