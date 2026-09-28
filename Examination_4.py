@@ -6,4 +6,4 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+color = input()gkytgytky
